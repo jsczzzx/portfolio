@@ -1,8 +1,8 @@
 baseURL = "https://example.com/"
 languageCode = "en-us"
-title = "Edna West"
+title = "Felix Zhang"
 theme = "personal-web"
-copyright="© Edna West"
+copyright="© Felix Zhang"
 googleAnalytics = ""
 enableEmoji=true
 enableRobotsTXT=true
@@ -10,7 +10,7 @@ pygmentsUseClasses=true
 pygmentsCodeFences=true
 
 [params.intro]
-  main = "Hi, I'm Edna :wave:"
+  main = "Hi, I'm Felix :wave:"
   sub = "I'm a Web Developer and Entrepreneur"
 
 [params.main]
@@ -41,9 +41,9 @@ pygmentsCodeFences=true
   portfolio = "project"
 
 [params.sidebar]
-  backgroundImage = '' # header background image - default "/images/default_sidebar.jpg" - Photo by Tim Marshall on Unsplash
+  backgroundImage = '' # header background image - default "/images/default_sidebar.jpg" - Photo by Felix Zhang on 500px
   gradientOverlay = '' # default: rgba(0,0,0,0.4),rgba(0,0,0,0.4)
-  logo = "" # - default "/images/edna-west.jpg"
+  logo = "" # - default "/images/felix-zhang.jpg"
 [params.assets]
   favicon = ""
   customCSS = ""
