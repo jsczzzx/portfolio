@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html lang='en'><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
-  <title>Boston Gallery - Felix Zhang</title>
-  <link rel='canonical' href='http://localhost:1313/post/boston/' />
+  <title>Archetypes management - Felix Zhang</title>
+  <link rel='canonical' href='http://localhost:1313/post/backup/archetypes/' />
   <meta charset='utf-8'>
   <meta name='viewport' content='width=device-width, initial-scale=1' />
-  <meta name='description' content='How to define your portfolio in FrontMatter' />
+  <meta name='description' content='How the Archetypes are defined' />
   <meta name='theme-color' content='#FD3519' />
   
 
@@ -19,22 +19,22 @@
 <link rel="stylesheet" href="http://localhost:1313/sass/style.min.eabe1aa4bd266a15f7b39b122bd6a5cc75cb067e5373631ac21d7815d6240d6f.css" integrity="sha256-6r4apL0mahX3s5sSK9alzHXLBn5Tc2Mawh14FdYkDW8=" media="screen">
 <link rel="stylesheet" href="http://localhost:1313/syntax.min.css" integrity="" media="screen">
 
-  <meta property="og:url" content="http://localhost:1313/post/boston/">
+  <meta property="og:url" content="http://localhost:1313/post/backup/archetypes/">
   <meta property="og:site_name" content="Felix Zhang">
-  <meta property="og:title" content="Boston Gallery">
-  <meta property="og:description" content="How to define your portfolio in FrontMatter">
+  <meta property="og:title" content="Archetypes management">
+  <meta property="og:description" content="How the Archetypes are defined">
   <meta property="og:locale" content="en_us">
   <meta property="og:type" content="article">
     <meta property="article:section" content="post">
-    <meta property="article:published_time" content="2024-05-02T19:49:05+02:00">
-    <meta property="article:modified_time" content="2024-05-02T19:49:05+02:00">
+    <meta property="article:published_time" content="2019-05-02T19:25:30+02:00">
+    <meta property="article:modified_time" content="2019-05-02T19:25:30+02:00">
 
   
-  <meta itemprop="name" content="Boston Gallery">
-  <meta itemprop="description" content="How to define your portfolio in FrontMatter">
-  <meta itemprop="datePublished" content="2024-05-02T19:49:05+02:00">
-  <meta itemprop="dateModified" content="2024-05-02T19:49:05+02:00">
-  <meta itemprop="wordCount" content="15">
+  <meta itemprop="name" content="Archetypes management">
+  <meta itemprop="description" content="How the Archetypes are defined">
+  <meta itemprop="datePublished" content="2019-05-02T19:25:30+02:00">
+  <meta itemprop="dateModified" content="2019-05-02T19:25:30+02:00">
+  <meta itemprop="wordCount" content="62">
 </head>
 <body>
 
@@ -165,7 +165,7 @@
 
 
 <span  class="active">
-  <a href="http://localhost:1313/post/boston/">Boston Gallery</a>
+  <a href="http://localhost:1313/post/backup/archetypes/">Archetypes management</a>
   
 </span>
 
@@ -174,7 +174,7 @@
     
     <main id="content" class="post">
 
-<h1>Boston Gallery</h1>
+<h1>Archetypes management</h1>
 <div class="reading-time">
   <div class="icon">
   <svg width="18px" height="18px" viewBox="0 0 115 115" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img">
@@ -196,56 +196,24 @@
   </svg>
 </div>
 
-  <span>May 2, 2024</span>
+  <span>May 2, 2019</span>
 </div>
 
-<p>Here are some images shot in Boston, Waltham, Walden Pond and woods in suburban hills.</p>
-<p><figure><img src="/post/images/boston/DSC_0504.jpg">
-</figure>
-
-<figure><img src="/post/images/boston/DSC_0511.jpg">
-</figure>
-
-<figure><img src="/post/images/boston/DSC_0518.jpg">
-</figure>
-
-<figure><img src="/post/images/boston/DSC_0520.jpg">
-</figure>
-
-<figure><img src="/post/images/boston/DSC_0522.jpg">
-</figure>
-
-<figure><img src="/post/images/boston/DSC_0548.jpg">
-</figure>
-
-<figure><img src="/post/images/boston/DSC_0591.jpg">
-</figure>
-
-<figure><img src="/post/images/boston/DSC_0596.jpg">
-</figure>
-
-<figure><img src="/post/images/boston/DSC_0605.jpg">
-</figure>
-
-<figure><img src="/post/images/boston/DSC_1119.jpg">
-</figure>
-
-<figure><img src="/post/images/boston/DSC_1262.jpg">
-</figure>
-
-<figure><img src="/post/images/boston/DSC_2262.jpg">
-</figure>
-
-<figure><img src="/post/images/boston/DSC_4390.jpg">
-</figure>
-
-<figure><img src="/post/images/boston/DSC_4860.jpg">
-</figure>
-
-<figure><img src="/post/images/boston/DSC_4900.jpg">
-</figure>
-</p>
-
+<p>The archetypes are defined in the <code>archetypes</code> folder, for both post and portfolio.</p>
+<p>The archetypes are defined in YAML, so Front matter is formatted in YAML too. You can easily change them to TOML in your own <code>archetypes</code> is you wish to.</p>
+<p>For example:</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-YAML" data-lang="YAML"><span class="line"><span class="cl"><span class="nn">---</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="w"></span><span class="nt">title</span><span class="p">:</span><span class="w"> </span><span class="l">title</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="w"></span><span class="nt">description</span><span class="p">:</span><span class="w"> </span><span class="l">desc</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="w"></span><span class="nt">date</span><span class="p">:</span><span class="w"> </span><span class="s2">&#34;2019-05-02T19:47:09+02:00&#34;</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="w"></span><span class="nn">---</span><span class="w">
+</span></span></span></code></pre></div><p>to</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-TOML" data-lang="TOML"><span class="line"><span class="cl"><span class="err">+++</span>
+</span></span><span class="line"><span class="cl"><span class="nx">title</span> <span class="p">=</span> <span class="s2">&#34;title&#34;</span>
+</span></span><span class="line"><span class="cl"><span class="nx">description</span><span class="err">:</span> <span class="s2">&#34;desc&#34;</span>
+</span></span><span class="line"><span class="cl"><span class="nx">date</span><span class="err">:</span> <span class="s2">&#34;2019-05-02T19:47:09+02:00&#34;</span>
+</span></span><span class="line"><span class="cl"><span class="err">+++</span>
+</span></span></code></pre></div>
 
     </main>
   </div>

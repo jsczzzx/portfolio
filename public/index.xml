@@ -38,6 +38,20 @@
       <description>&lt;p&gt;Northwest China has rich and magnificent natural landscapes, including Qinghai Lake, the Yadan landforms and salt lakes in the Qaidam Basin, the deserts in Dunhuang, the snow-capped peaks of the Qilian Mountains, and the Danxia landforms in Zhangye.&lt;/p&gt;&#xA;&lt;p&gt;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/post/images/north-west-china/DSC_3640.jpg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/post/images/north-west-china/DSC_3845.jpg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/post/images/north-west-china/DSC_3863.jpg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/post/images/north-west-china/DSC_4154.jpg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/post/images/north-west-china/DSC_4228.jpg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/post/images/north-west-china/DSC_4370.jpg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/post/images/north-west-china/DSC_4429.jpg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/post/images/north-west-china/DSC_4499.jpg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/post/images/north-west-china/DSC_4683.jpg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/post/images/north-west-china/DSC_4785.jpg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/post/images/north-west-china/DSC_5268.jpg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/post/images/north-west-china/DSC_5647.jpg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/post/images/north-west-china/DSC_5910.jpg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/post/images/north-west-china/DSC_5936.jpg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/post/images/north-west-china/DSC_6004.jpg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/post/images/north-west-china/DSC_6030.jpg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/post/images/north-west-china/DSC_6066.jpg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/post/images/north-west-china/DSC_6177.jpg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Getting started</title>
+      <link>http://localhost:1313/post/backup/getting-started/</link>
+      <pubDate>Fri, 03 May 2019 09:37:55 +0200</pubDate>
+      <guid>http://localhost:1313/post/backup/getting-started/</guid>
+      <description>&lt;p&gt;Here are some details to help you getting started with this theme.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Portfolio Definition</title>
+      <link>http://localhost:1313/post/backup/portfolio-definition/</link>
+      <pubDate>Thu, 02 May 2019 19:49:05 +0200</pubDate>
+      <guid>http://localhost:1313/post/backup/portfolio-definition/</guid>
+      <description>&lt;p&gt;Here are some details about the portfolio settings.&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/post/images/portfolio-example.png&#34;&#xA;    alt=&#34;Example of Portfolio page&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;p&gt;Example of Portfolio page&lt;/p&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;</description>
+    </item>
+    <item>
       <title>CHS</title>
       <link>http://localhost:1313/portfolio/chs/</link>
       <pubDate>Thu, 02 May 2019 19:47:09 +0200</pubDate>
@@ -50,6 +64,41 @@
       <pubDate>Thu, 02 May 2019 19:47:09 +0200</pubDate>
       <guid>http://localhost:1313/portfolio/toast/</guid>
       <description>&lt;h2 id=&#34;online-ordering-platform-br&#34;&gt;Online Ordering Platform &lt;br&gt;&lt;/h2&gt;&#xA;&lt;h2 id=&#34;heading&#34;&gt;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Engaged in developing the frontend using &lt;strong&gt;Angular 15&lt;/strong&gt;, utilized latest features including &lt;strong&gt;Standalone Components&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;Utilized &lt;strong&gt;Figma&lt;/strong&gt; to design pages including Home, Explore, Rewards and Orders,&#xA;ensuring intuitive and elegant digital experiences.&lt;/li&gt;&#xA;&lt;li&gt;Developed the &amp;ldquo;Explore&amp;rdquo; page, a core feature that allowed users to browse and&#xA;search restaurants, add items to their cart, and proceed to checkout.&lt;/li&gt;&#xA;&lt;li&gt;Used &lt;strong&gt;RxJS Observables&lt;/strong&gt; and &lt;strong&gt;HttpClient Service&lt;/strong&gt; to make API calls. Leveraged&#xA;RxJS operators including &lt;strong&gt;debounce&lt;/strong&gt; and &lt;strong&gt;switchMap&lt;/strong&gt; to ensure the UI remains&#xA;responsive without throttling performance.&lt;/li&gt;&#xA;&lt;li&gt;Implemented &lt;strong&gt;infinite scrolling&lt;/strong&gt;, loads more restaurants dynamically as the&#xA;user scrolls down.&lt;/li&gt;&#xA;&lt;li&gt;Utilized &lt;strong&gt;BehaviorSubject&lt;/strong&gt; to to synchronize the selected items between the&#xA;menu popup and the cart icon in real-time.&lt;/li&gt;&#xA;&lt;li&gt;Integrated &lt;strong&gt;Stripe&lt;/strong&gt; to implement checkout via multiple payment options&#xA;including credit cards, Apple Pay, and Google Pay.&lt;/li&gt;&#xA;&lt;li&gt;Joined a team to transplant the web app to mobile platforms using &lt;strong&gt;Ionic&lt;/strong&gt;.&#xA;Adapted components such as &lt;strong&gt;ion-button&lt;/strong&gt;, &lt;strong&gt;ion-input&lt;/strong&gt;, and &lt;strong&gt;ion-modal&lt;/strong&gt; to create&#xA;a native-like feel on mobile devices while maintaining core business logic.&lt;/li&gt;&#xA;&lt;li&gt;Utilized &lt;strong&gt;Capacitor&lt;/strong&gt; to integrate native device features into the mobile version,&#xA;including push notifications and geolocation.&lt;/li&gt;&#xA;&lt;li&gt;Focused on &lt;strong&gt;Web Vitals&lt;/strong&gt;. Implemented &lt;strong&gt;lazy loading&lt;/strong&gt; for non-crucial&#xA;components including cart and checkout to optimize program performance.&#xA;Utilized &lt;strong&gt;OnPush&lt;/strong&gt; change detection strategy to avoid unnecessary rerendering&#xA;of the page, optimizing the performance of the application.&lt;/li&gt;&#xA;&lt;li&gt;Resolved &lt;strong&gt;cross-browser compatibility issues&lt;/strong&gt;. Utilized &lt;strong&gt;BrowserStack&lt;/strong&gt; for&#xA;extensive testing, and implemented &lt;strong&gt;polyfills&lt;/strong&gt; and &lt;strong&gt;CSS resets&lt;/strong&gt; to standardize&#xA;behavior across platforms.&lt;/li&gt;&#xA;&lt;li&gt;Partnered with UI/UX designers to integrate &lt;strong&gt;Accessibility&lt;/strong&gt; into the design&#xA;process. Developed accessible color palettes with sufficient contrast ratios&#xA;to aid users with visual impairments. Utilized &lt;strong&gt;WAVE&lt;/strong&gt; to identify and address&#xA;accessibility issues.&lt;/li&gt;&#xA;&lt;li&gt;Utilized Flexible Layouts, Media Queries, Relative Units and Responsive&#xA;Typography to ensure &lt;strong&gt;Responsive Web Design&lt;/strong&gt;, delivering a seamless user&#xA;experience across various devices and screen sizes.&lt;/li&gt;&#xA;&lt;li&gt;Familiar with &lt;strong&gt;CI/CD&lt;/strong&gt; pipeline using &lt;strong&gt;Jenkins&lt;/strong&gt;. Conducted unit testing using&#xA;&lt;strong&gt;Jasmine&lt;/strong&gt; and &lt;strong&gt;Karma&lt;/strong&gt;, and end-to-end testing using &lt;strong&gt;Cypress&lt;/strong&gt; to ensure the&#xA;robustness and reliability of the application.&lt;/li&gt;&#xA;&lt;li&gt;Participated in &lt;strong&gt;Agile&lt;/strong&gt; processes including sprint planning, daily stand-ups and&#xA;retrospectives. Designed and allocated tickets in &lt;strong&gt;JIRA&lt;/strong&gt; to ensure timely delivery&#xA;of features.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Archetypes management</title>
+      <link>http://localhost:1313/post/backup/archetypes/</link>
+      <pubDate>Thu, 02 May 2019 19:25:30 +0200</pubDate>
+      <guid>http://localhost:1313/post/backup/archetypes/</guid>
+      <description>&lt;p&gt;The archetypes are defined in the &lt;code&gt;archetypes&lt;/code&gt; folder, for both post and portfolio.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Shortcodes</title>
+      <link>http://localhost:1313/post/backup/shortcodes/</link>
+      <pubDate>Mon, 29 Apr 2019 19:12:12 +0100</pubDate>
+      <guid>http://localhost:1313/post/backup/shortcodes/</guid>
+      <description>&lt;p&gt;Introduction of the shortcodes defined in the personal-web theme.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Config File</title>
+      <link>http://localhost:1313/post/backup/config-file/</link>
+      <pubDate>Sat, 20 Apr 2019 19:12:12 +0100</pubDate>
+      <guid>http://localhost:1313/post/backup/config-file/</guid>
+      <description>&lt;p&gt;Here is the basic config file used for personal-web.&lt;/p&gt;&#xA;&lt;p&gt;You can use it as a base for your website.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Pages</title>
+      <link>http://localhost:1313/post/backup/pages/</link>
+      <pubDate>Sat, 20 Apr 2019 19:12:12 +0100</pubDate>
+      <guid>http://localhost:1313/post/backup/pages/</guid>
+      <description>&lt;p&gt;Variables you can use in pages&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Open Graph image</title>
+      <link>http://localhost:1313/post/backup/define-specific-og-image/</link>
+      <pubDate>Sat, 20 Apr 2019 11:14:59 +0200</pubDate>
+      <guid>http://localhost:1313/post/backup/define-specific-og-image/</guid>
+      <description>&lt;p&gt;Within any page, you can add in the FrontMatter a images array that will be used to define a specific Open Graph image.&lt;/p&gt;&#xA;&lt;p&gt;For example, see &lt;code&gt;content/_index.md&lt;/code&gt; page:&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-YAML&#34; data-lang=&#34;YAML&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nt&#34;&gt;images&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;p&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;/images/sample.jpg&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;]&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
     </item>
     <item>
       <title>Japan Gallery</title>

@@ -2,47 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/post/getting-started/</loc>
-    <lastmod>2019-05-03T09:37:55+02:00</lastmod>
+    <loc>http://localhost:1313/post/</loc>
+    <lastmod>2024-08-17T19:49:05+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2019-05-03T09:37:55+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/post/</loc>
-    <lastmod>2019-05-03T09:37:55+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/post/boston/</loc>
-    <lastmod>2019-05-02T19:49:05+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/post/japan/</loc>
-    <lastmod>2019-05-02T19:49:05+02:00</lastmod>
+    <lastmod>2024-08-17T19:49:05+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/post/night-sky/</loc>
-    <lastmod>2019-05-02T19:49:05+02:00</lastmod>
+    <lastmod>2024-08-17T19:49:05+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/north-west-china/</loc>
-    <lastmod>2019-05-02T19:49:05+02:00</lastmod>
+    <loc>http://localhost:1313/post/boston/</loc>
+    <lastmod>2024-05-02T19:49:05+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/post/nyc/</loc>
-    <lastmod>2019-05-02T19:49:05+02:00</lastmod>
+    <lastmod>2022-02-05T19:49:05+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/portfolio-definition/</loc>
+    <loc>http://localhost:1313/post/north-west-china/</loc>
+    <lastmod>2020-10-14T19:49:05+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/post/backup/getting-started/</loc>
+    <lastmod>2019-05-03T09:37:55+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/post/backup/portfolio-definition/</loc>
     <lastmod>2019-05-02T19:49:05+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -82,28 +77,33 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/archetypes/</loc>
+    <loc>http://localhost:1313/post/backup/archetypes/</loc>
     <lastmod>2019-05-02T19:25:30+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/shortcodes/</loc>
+    <loc>http://localhost:1313/post/backup/shortcodes/</loc>
     <lastmod>2019-04-29T16:18:12+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/config-file/</loc>
+    <loc>http://localhost:1313/post/backup/config-file/</loc>
     <lastmod>2019-04-20T16:18:12+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/pages/</loc>
+    <loc>http://localhost:1313/post/backup/pages/</loc>
     <lastmod>2019-04-20T16:18:12+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/define-specific-og-image/</loc>
+    <loc>http://localhost:1313/post/backup/define-specific-og-image/</loc>
     <lastmod>2019-04-20T11:14:59+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/post/japan/</loc>
+    <lastmod>2016-08-30T19:49:05+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
