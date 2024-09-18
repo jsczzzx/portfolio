@@ -12,4 +12,4 @@ images: ["/images/sample.jpg"]
 [Get to know me better](/about "Get to know me better")
 
 #### My biggest hobby is photography, especially landscape and city photography. You can enjoy some of my works in the Post page.
-[My Gallery](/posts "My Gallery")
+[My Gallery](/post "My Gallery")

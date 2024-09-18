@@ -1,8 +1,9 @@
 ---
 title: Focused Photonics
+date: "2020-02-15T19:47:09+02:00"
 jobDate:  Jun 2018 — Feb 2020
 work: [GIS, Frontend]
-techs: [Angular]
+techs: [Angular, ArcGIS]
 thumbnail: focused-photonics/logo.jpg
 projectUrl: https://www.fpi-inc.com/en/
 ---

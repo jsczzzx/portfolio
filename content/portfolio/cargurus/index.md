@@ -1,5 +1,6 @@
 ---
 title: CarGurus
+date: "2022-12-31T19:47:09+02:00"
 jobDate: Feb 2022 — Dec 2022
 work: [Frontend]
 techs: [Angular]

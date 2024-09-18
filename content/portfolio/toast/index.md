@@ -1,7 +1,7 @@
 ---
 title: Toast
 description: 
-date: "2019-05-02T19:47:09+02:00"
+date: "2024-06-30T19:47:09+02:00"
 jobDate: Apr 2023 — Jun 2024
 work: [Frontend, Mobile]
 techs: [Angular, Ionic]

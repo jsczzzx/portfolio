@@ -7,7 +7,8 @@ publishDate: "2024-05-02T19:49:05+02:00"
 
 Here are some images shot in Boston, Waltham, Walden Pond and woods in suburban hills.
 
-
+{{< figure src="/post/images/boston/DSC_4860.jpg" caption="" >}}
+{{< figure src="/post/images/boston/DSC_4900.jpg" caption="" >}}
 {{< figure src="/post/images/boston/DSC_0504.jpg" caption="" >}}
 {{< figure src="/post/images/boston/DSC_0511.jpg" caption="" >}}
 {{< figure src="/post/images/boston/DSC_0518.jpg" caption="" >}}
@@ -18,8 +19,7 @@ Here are some images shot in Boston, Waltham, Walden Pond and woods in suburban 
 {{< figure src="/post/images/boston/DSC_0596.jpg" caption="" >}}
 {{< figure src="/post/images/boston/DSC_0605.jpg" caption="" >}}
 {{< figure src="/post/images/boston/DSC_1119.jpg" caption="" >}}
-{{< figure src="/post/images/boston/DSC_1262.jpg" caption="" >}}
 {{< figure src="/post/images/boston/DSC_2262.jpg" caption="" >}}
+{{< figure src="/post/images/boston/DSC_1262.jpg" caption="" >}}
 {{< figure src="/post/images/boston/DSC_4390.jpg" caption="" >}}
-{{< figure src="/post/images/boston/DSC_4860.jpg" caption="" >}}
-{{< figure src="/post/images/boston/DSC_4900.jpg" caption="" >}}
+

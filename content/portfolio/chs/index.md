@@ -1,14 +1,14 @@
 ---
 title: CHS
 description: 
-date: "2019-05-02T19:47:09+02:00"
+date: "2021-04-28T19:47:09+02:00"
 jobDate: Mar 2020 — Apr 2021
 work: [Mobile]
 techs: [React Native]
 thumbnail: chs/logo.png
 projectUrl: https://ybj.jszwfw.gov.cn/
 ---
-##  Jiangsu Healthcare Security App <br>
+##  Healthcare Management System 		                                  	 <br>
 ##
 - Built dynamic and responsive user interfaces using **React Native**, developed 
 responsive and reusable UI components.

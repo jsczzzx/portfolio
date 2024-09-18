@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ArcGIS on Felix Zhang</title>
+    <link>http://localhost:1313/techs/arcgis/</link>
+    <description>Recent content in ArcGIS on Felix Zhang</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© Felix Zhang</copyright>
+    <lastBuildDate>Sat, 15 Feb 2020 19:47:09 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/techs/arcgis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Focused Photonics</title>
+      <link>http://localhost:1313/portfolio/focused-photonics/</link>
+      <pubDate>Sat, 15 Feb 2020 19:47:09 +0200</pubDate>
+      <guid>http://localhost:1313/portfolio/focused-photonics/</guid>
+      <description>&lt;h2 id=&#34;interactive-gis-dashboard-br&#34;&gt;Interactive GIS Dashboard &lt;br&gt;&lt;/h2&gt;&#xA;&lt;h2 id=&#34;heading&#34;&gt;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Utilized &lt;strong&gt;Angular 6&lt;/strong&gt; for building a dynamic and responsive user interface.&lt;/li&gt;&#xA;&lt;li&gt;Integrated &lt;strong&gt;ArcGIS&lt;/strong&gt; API for JavaScript for advanced mapping and geospatial&#xA;analysis.&lt;/li&gt;&#xA;&lt;li&gt;Leveraged &lt;strong&gt;D3.js&lt;/strong&gt; for creating interactive and visually appealing data visualizations.&lt;/li&gt;&#xA;&lt;li&gt;Collaborated with backend developers to fetch and display shapefile data from &lt;strong&gt;PostGIS&lt;/strong&gt; databases.&lt;/li&gt;&#xA;&lt;li&gt;By performing &lt;strong&gt;supervised classification&lt;/strong&gt; based on neural networks on Landsat-8 multi-band remote sensing images, a land use classification map of Jiande City was generated with a classification accuracy of over 92%.&lt;/li&gt;&#xA;&lt;li&gt;Implemented API calls to interact with backend services hosted on &lt;strong&gt;Alibaba Cloud&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;Focused on creating an intuitive and user-friendly interface with &lt;strong&gt;responsive design&lt;/strong&gt; principles, ensured seamless user interactions with maps and data visualizations on multiple platforms.&lt;/li&gt;&#xA;&lt;li&gt;Coordinated and supported user acceptance testing, working closely with end-users to validate the system against business requirements.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
