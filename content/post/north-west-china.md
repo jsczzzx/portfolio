@@ -3,6 +3,7 @@ title: Northwest China Gallery
 description: How to define your portfolio in FrontMatter
 date: "2020-10-14T19:49:05+02:00"
 publishDate: "2020-10-14T19:49:05+02:00"
+featured_image: "/post/images/north-west-china/DSC_5647.jpg"
 ---
 
 Northwest China has rich and magnificent natural landscapes, including Qinghai Lake, the Yadan landforms and salt lakes in the Qaidam Basin, the deserts in Dunhuang, the snow-capped peaks of the Qilian Mountains, and the Danxia landforms in Zhangye.

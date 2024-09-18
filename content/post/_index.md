@@ -1,5 +1,5 @@
 ---
-title: Gallery
+title: POST
 description: 'Posts Section'
 ---
 

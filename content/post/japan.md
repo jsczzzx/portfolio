@@ -3,6 +3,7 @@ title: Japan Gallery
 description: How to define your portfolio in FrontMatter
 date: "2016-08-30T19:49:05+02:00"
 publishDate: "2016-08-30T19:49:05+02:00"
+featured_image: "/post/images/japan/DSC_3653.jpg"
 ---
 
 I went to Japan in 2016, visited Osaka, Kyoto, Tokyo, Matsusaka Castle and more places.

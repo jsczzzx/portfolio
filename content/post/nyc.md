@@ -3,6 +3,7 @@ title: NYC Gallery
 description: How to define your portfolio in FrontMatter
 date: "2022-02-05T19:49:05+02:00"
 publishDate: "2022-02-05T19:49:05+02:00"
+featured_image: "/post/images/nyc/DSC_1257.jpg"
 ---
 
 Had a trip to NYC in 2022. The Chrysler Building's observation deck is a great place to enjoy the sunset!

@@ -3,6 +3,7 @@ title: Night Sky Gallery
 description: How to define your portfolio in FrontMatter
 date: "2024-08-17T19:49:05+02:00"
 publishDate: "2024-08-17T19:49:05+02:00"
+featured_image: "/post/images/night-sky/DSC_5762.jpg"
 ---
 
 Photos taken at night: starry sky, milky way and northern light.

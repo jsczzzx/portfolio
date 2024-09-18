@@ -3,6 +3,7 @@ title: Boston Gallery
 description: How to define your portfolio in FrontMatter
 date: "2024-05-02T19:49:05+02:00"
 publishDate: "2024-05-02T19:49:05+02:00"
+featured_image: "/post/images/boston/DSC_4860.jpg"
 ---
 
 Here are some images shot in Boston, Waltham, Walden Pond and woods in suburban hills.
